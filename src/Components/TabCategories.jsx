@@ -13,6 +13,7 @@ const TabCategories = () => {
     }
     getData()
   }, [])
+  // console.log(jobs);
 
   return (
     <Tabs>
